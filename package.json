@@ -9,5 +9,27 @@
   "scripts": {
     "start": "node app.js",
     "development": "nodemon app.js"
-  }
+  },
+  "name": "simple-blog",
+  "version": "1.0.0",
+  "description": "A simple react blog",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twosdai/Simple-Blog.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "react",
+    "blog",
+    "express"
+  ],
+  "author": "Daniel Wasserlauf <Twosdai>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twosdai/Simple-Blog/issues"
+  },
+  "homepage": "https://github.com/twosdai/Simple-Blog#readme"
 }
